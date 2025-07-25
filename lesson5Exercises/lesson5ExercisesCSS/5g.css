@@ -1,0 +1,26 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.header {
+  margin-bottom: 8px;
+}
+.username {
+  font-weight: bold;
+}
+
+.info {
+  color: gray;
+}
+
+.tweet {
+  width: 500px;
+  line-height: 20px;
+  margin-bottom: 16px;
+}
+
+.handle {
+  color: blue;
+}

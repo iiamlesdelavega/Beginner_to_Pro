@@ -1,0 +1,39 @@
+p {
+  font-family: Arial;
+  color: gray;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.label {
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
+.search {
+  font-size: 16px;
+  width: 300px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: gray;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+.subtitle {
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.join-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  font-size: 14px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 300px;
+  border-radius: 30px;
+}
